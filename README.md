@@ -1,6 +1,6 @@
 # MongoDB, Express, Vue.js 2, Node.js (MEVN) and SocketIO Chat App
 
-This source code is part of [MongoDB, Express, Vue.js 2, Node.js (MEVN) and SocketIO Chat App]() tutorial.
+This source code is part of [MongoDB, Express, Vue.js 2, Node.js (MEVN) and SocketIO Chat App](https://www.djamware.com/post/5b6a681f80aca76a2cbd98fb/mongodb-express-vuejs-2-nodejs-mevn-and-socketio-chat-app) tutorial.
 
 > A Vue.js project
 
